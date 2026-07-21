@@ -40,6 +40,16 @@ This project analyzes telecom customer data — usage behavior, demographics, an
 
 ---
 
+## 🔄 Project Workflow
+
+![Project Workflow](Screenshots/Workflow.png)
+
+**Workflow Summary**
+
+Kaggle Dataset → PostgreSQL → Data Cleaning → Data Preprocessing → Exploratory Data Analysis → Business Analysis → Tableau Dashboards → Business Insights & Recommendations
+
+---
+
 ## 📊 SQL Analysis
 
 All SQL lives in a single script, `Customer_Churn_Analysis.sql`, organized into seven clearly labeled parts covering five analytical stages:
