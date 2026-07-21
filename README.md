@@ -60,6 +60,19 @@ The project follows an end-to-end analytics pipeline, starting with a telecom cu
 
 ---
 
+## 📋 Methodology
+
+This project follows a structured data analytics workflow:
+
+1. **Data Collection** – Collected the telecom customer churn dataset from Kaggle.
+2. **Data Cleaning & Preprocessing** – Cleaned, validated, and prepared the data using PostgreSQL.
+3. **Exploratory Data Analysis (EDA)** – Explored customer demographics, usage patterns, and churn trends.
+4. **Business Analysis** – Performed SQL-based analysis to identify churn drivers and high-risk customer segments.
+5. **Data Visualization** – Developed three interactive dashboards in Tableau.
+6. **Business Insights** – Generated actionable insights and recommendations to support customer retention strategies.
+
+---
+
 ## 📊 SQL Analysis
 
 All SQL lives in a single script, `Customer_Churn_Analysis.sql`, organized into seven clearly labeled parts covering five analytical stages:
