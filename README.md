@@ -101,8 +101,14 @@ Ranks telecom partners and states by churn rate, breaks down churn by age group,
 
 ## 📸 Dashboard Preview
 
+### 1. Overview
+
 ![Dashboard 1 — Executive Overview](Screenshots/OVERVIEW.png)
+
+### 2. Customer Churn Diagnostics
 ![Dashboard 2 — Customer Churn Diagnostics](screenshots/behavior_diagnostics.png)
+
+### 3. Behavioral & Geographic Risk Diagnostics
 ![Dashboard 3 — Behavioral & Geographic Risk Diagnostics](screenshots/risk_diagnostics.png)
 
 **Live dashboard:** [Tableau Public link here]
@@ -111,5 +117,5 @@ Ranks telecom partners and states by churn rate, breaks down churn by age group,
 
 ## 👨‍💻 Author
 
-**Shibam Mahato**
+**Shibam Mahato-**
 Data Analyst | Business Analyst | SQL, Excel, Tableau
