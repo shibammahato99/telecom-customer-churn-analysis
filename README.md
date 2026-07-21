@@ -50,6 +50,16 @@ Kaggle Dataset → PostgreSQL → Data Cleaning → Data Preprocessing → Explo
 
 ---
 
+## 🏗️ Project Architecture
+
+![Project Workflow](Workflow/Architecture.png)
+
+**Architecture Overview**
+
+The project follows an end-to-end analytics pipeline, starting with a telecom customer churn dataset from Kaggle. Data is stored and analyzed in PostgreSQL, followed by interactive dashboard development in Tableau to uncover churn patterns and generate actionable business insights for customer retention.
+
+---
+
 ## 📊 SQL Analysis
 
 All SQL lives in a single script, `Customer_Churn_Analysis.sql`, organized into seven clearly labeled parts covering five analytical stages:
