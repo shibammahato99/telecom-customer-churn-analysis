@@ -101,7 +101,7 @@ Ranks telecom partners and states by churn rate, breaks down churn by age group,
 
 ## 📸 Dashboard Preview
 
-![Dashboard 1 — Executive Overview](Screenshots/1.OVERVIEW.png)
+![Dashboard 1 — Executive Overview](Screenshots/OVERVIEW.png)
 ![Dashboard 2 — Customer Churn Diagnostics](screenshots/behavior_diagnostics.png)
 ![Dashboard 3 — Behavioral & Geographic Risk Diagnostics](screenshots/risk_diagnostics.png)
 
