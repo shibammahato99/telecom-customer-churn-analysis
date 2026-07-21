@@ -42,7 +42,7 @@ This project analyzes telecom customer data — usage behavior, demographics, an
 
 ## 🔄 Project Workflow
 
-![Project Workflow](Screenshots/Workflow.png)
+![Project Workflow](Workflow/Workflow.png)
 
 **Workflow Summary**
 
