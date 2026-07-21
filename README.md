@@ -111,7 +111,7 @@ Ranks telecom partners and states by churn rate, breaks down churn by age group,
 ### 3. Behavioral Risk Diagnostics
 ![Dashboard 3 — Behavioral & Geographic Risk Diagnostics](Screenshots/BEHAVIORAL_RISK_DIAGNOSTICS.png)
 
-**Live dashboard:** [Tableau Public link here]
+**Tableau Public:** https://public.tableau.com/app/profile/shibam.mahato/viz/Shibam-TelecomCustomerChurnAnalysis/Overview?publish=yes
 
 ---
 
